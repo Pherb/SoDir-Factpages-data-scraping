@@ -1,0 +1,81 @@
+Attribute,Value
+Wellbore name,30/2-1
+Type,EXPLORATION
+Purpose,WILDCAT
+Status,P&A
+Main area,NORTH SEA
+Field,HULDRA
+Discovery,30/2-1 Huldra
+Well name,30/2-1
+Seismic location,702 164  SP 435
+Production licence,051
+Drilling operator,Den norske stats oljeselskap a.s
+Drill permit,328-L
+Drilling facility,DYVI DELTA
+Drilling days,149
+Entered date,17.05.1982
+Completed date,12.10.1982
+Plugged date,12.11.2016
+Plugged and abondon date,15.03.2019
+Release date,12.10.1984
+Publication date,17.10.2007
+Purpose - planned,WILDCAT
+Reentry,NO
+Content,GAS/CONDENSATE
+Discovery wellbore,YES
+"1st level with HC, age",MIDDLE JURASSIC
+"1st level with HC, formation",BRENT GP
+Kelly bushing elevation [m],30.0
+Water depth [m],125.0
+Total depth (MD) [m RKB],4243.0
+Final vertical depth (TVD) [m RKB],4237.0
+Maximum inclination [°],7.75
+Bottom hole temperature [°C],164
+Oldest penetrated age,EARLY JURASSIC
+Oldest penetrated formation,STATFJORD GP
+Geodetic datum,ED50
+NS degrees,60° 52' 5.42'' N
+EW degrees,2° 38' 49.16'' E
+NS UTM [m],6748315.20
+EW UTM [m],480827.13
+UTM zone,31
+NPDID wellbore,72
+Wellbore name,30/2-2
+Type,EXPLORATION
+Purpose,APPRAISAL
+Status,P&A
+Main area,NORTH SEA
+Field,HULDRA
+Discovery,30/2-1 Huldra
+Well name,30/2-2
+Seismic location,L 8330 - 134  SP. 430
+Production licence,051
+Drilling operator,Den norske stats oljeselskap a.s
+Drill permit,447-L
+Drilling facility,DYVI DELTA
+Drilling days,137
+Entered date,19.12.1984
+Completed date,04.05.1985
+Release date,04.05.1987
+Publication date,18.02.2015
+Purpose - planned,WILDCAT
+Reentry,NO
+Content,GAS/CONDENSATE
+Discovery wellbore,NO
+"1st level with HC, age",MIDDLE JURASSIC
+"1st level with HC, formation",BRENT GP
+Kelly bushing elevation [m],29.0
+Water depth [m],123.0
+Total depth (MD) [m RKB],4172.0
+Final vertical depth (TVD) [m RKB],4169.0
+Maximum inclination [°],7.8
+Bottom hole temperature [°C],152
+Oldest penetrated age,EARLY JURASSIC
+Oldest penetrated formation,DRAKE FM
+Geodetic datum,ED50
+NS degrees,60° 49' 53.89'' N
+EW degrees,2° 39' 51.65'' E
+NS UTM [m],6744240.64
+EW UTM [m],481749.07
+UTM zone,31
+NPDID wellbore,457
